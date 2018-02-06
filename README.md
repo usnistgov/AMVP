@@ -6,7 +6,7 @@ Labs and Validators alike. Driven by government regulation and customer demand, 
 validation for an increasingly larger number of cryptographic modules. Despite their technical acumen, rapid 
 changes in technology and its steep learning curve is stretching the resources at Certified Testing Labs. When 
 evaluation package submissions finally reach the validation queue, inconsistent and possibly incomplete evidence 
-presentation further strains the ability for a finite number of Validators to provide timely turnaround.
+presentation further strains the ability for a finite number of Validators to provide timely turnaround. See the NIST [Automated Cryptographic Validation Testing project](https://csrc.nist.gov/Projects/Automated-Cryptographic-Validation-Testing) for broader context and information. 
 # Objective
 All these challenges point to a dire need for consistent and reproducible evidence generation, reporting, and 
 processing of cryptographic module validations. To achieve consistency, all parties must follow an agreed 
